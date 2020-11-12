@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//modern.acsion.fi//wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//icy-forest-0bbe76303.azurestaticapps.net/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://modern.acsion.fi//post-sitemap.xml</loc>
+		<loc>https://icy-forest-0bbe76303.azurestaticapps.net/post-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://modern.acsion.fi//page-sitemap.xml</loc>
-		<lastmod>2020-11-12T15:45:00+00:00</lastmod>
+		<loc>https://icy-forest-0bbe76303.azurestaticapps.net/page-sitemap.xml</loc>
+		<lastmod>2020-11-12T17:05:37+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://modern.acsion.fi//tcb_symbol-sitemap.xml</loc>
+		<loc>https://icy-forest-0bbe76303.azurestaticapps.net/tcb_symbol-sitemap.xml</loc>
 		<lastmod>2020-11-10T13:43:52+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://modern.acsion.fi//tcb_lightbox-sitemap.xml</loc>
+		<loc>https://icy-forest-0bbe76303.azurestaticapps.net/tcb_lightbox-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://modern.acsion.fi//tcb_symbols_tax-sitemap.xml</loc>
+		<loc>https://icy-forest-0bbe76303.azurestaticapps.net/tcb_symbols_tax-sitemap.xml</loc>
 		<lastmod>2020-11-10T13:43:52+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
