@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//black-pebble-0a9849403.azurestaticapps.net/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//icy-forest-0bbe76303.azurestaticapps.net//wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://black-pebble-0a9849403.azurestaticapps.net/post-sitemap.xml</loc>
+		<loc>https://icy-forest-0bbe76303.azurestaticapps.net//post-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://black-pebble-0a9849403.azurestaticapps.net/page-sitemap.xml</loc>
-		<lastmod>2020-11-12T17:42:17+00:00</lastmod>
+		<loc>https://icy-forest-0bbe76303.azurestaticapps.net//page-sitemap.xml</loc>
+		<lastmod>2020-11-12T17:54:34+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://black-pebble-0a9849403.azurestaticapps.net/tcb_symbol-sitemap.xml</loc>
+		<loc>https://icy-forest-0bbe76303.azurestaticapps.net//tcb_symbol-sitemap.xml</loc>
 		<lastmod>2020-11-10T13:43:52+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://black-pebble-0a9849403.azurestaticapps.net/tcb_lightbox-sitemap.xml</loc>
+		<loc>https://icy-forest-0bbe76303.azurestaticapps.net//tcb_lightbox-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://black-pebble-0a9849403.azurestaticapps.net/tcb_symbols_tax-sitemap.xml</loc>
+		<loc>https://icy-forest-0bbe76303.azurestaticapps.net//tcb_symbols_tax-sitemap.xml</loc>
 		<lastmod>2020-11-10T13:43:52+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
